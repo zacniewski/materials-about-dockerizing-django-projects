@@ -1,1 +1,31 @@
-# materials-about-dockerizing-django-projects
+### Materiały z "Integracji systemów informatycznych"
+
+#### Opis zawartości
+
+  1. folder 'blog-django-girls-2024' zawiera aplikację 'blog' z tutorialu [Django Girls](https://tutorial.djangogirls.org/pl/). 
+
+
+#### Linki
+1. Git i GitHub
+ - [książka online](https://git-scm.com/book/pl/v2) o systemie Git, 
+ - [pomoc](https://www.flynerd.pl/2018/02/github-dla-zielonych-pierwsze-repozytorium.html) dla osób, które zaczynają przygodę z systemem kontroli wersji Git,
+ - podstawowa [składnia](https://www.markdownguide.org/basic-syntax/) Markdown,    
+ - GitHub [actions](https://docs.github.com/en/actions),
+ - GitHub Student [Developer Pack](https://education.github.com/pack)  
+
+
+2. Python
+  - [Interactive](https://www.learnpython.org/) Python tutorial,  
+ 
+3. Django
+  - [Official](https://www.djangoproject.com/) website,  
+
+4. PostgreSQL
+  - [SQL](https://www.javatpoint.com/sql-tutorial) tutorial,  
+  - [Database Management System](https://www.javatpoint.com/dbms-tutorial) tutorial,  
+  - [PostgreSQL](https://www.postgresqltutorial.com/) tutorial,  
+  - [Official](https://www.postgresql.org/docs/current/tutorial.html) PostgreSQL tutorial,  
+  - [Useful](https://www.postgresqltutorial.com/postgresql-administration/psql-commands/) `psql` commands.  
+
+5. Docker
+  - Docker [Manuals](https://docs.docker.com/manuals/),
