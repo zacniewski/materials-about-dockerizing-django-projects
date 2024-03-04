@@ -6,17 +6,17 @@
 
 
 #### II. Linki
-1. ##### Git i GitHub
+
+1. ##### Python
+  - [Interactive](https://www.learnpython.org/) Python tutorial,  
+ 
+2. ##### Git i GitHub
  - [książka online](https://git-scm.com/book/pl/v2) o systemie Git, 
  - [pomoc](https://www.flynerd.pl/2018/02/github-dla-zielonych-pierwsze-repozytorium.html) dla osób, które zaczynają przygodę z systemem kontroli wersji Git,
  - podstawowa [składnia](https://www.markdownguide.org/basic-syntax/) Markdown,    
  - GitHub [actions](https://docs.github.com/en/actions),
  - GitHub Student [Developer Pack](https://education.github.com/pack)  
 
-
-2. ##### Python
-  - [Interactive](https://www.learnpython.org/) Python tutorial,  
- 
 3. ##### Django
   - [Official](https://www.djangoproject.com/) website,  
 
