@@ -21,14 +21,23 @@
 
 3. ##### Django
   - [Official](https://www.djangoproject.com/) website,  
+  - [najlepszy](https://tutorial.djangogirls.org/pl/) startowy tutorial dla Django,
 
-4. ##### PostgreSQL
+4. ##### Bazy danych: SQLite i PostgreSQL
   - [SQL](https://www.javatpoint.com/sql-tutorial) tutorial,  
   - [Database Management System](https://www.javatpoint.com/dbms-tutorial) tutorial,  
+  - [SQLite](https://www.sqlitetutorial.net/sqlite-python/) w Pythonie, 
   - [PostgreSQL](https://www.postgresqltutorial.com/) tutorial,  
   - [Official](https://www.postgresql.org/docs/current/tutorial.html) PostgreSQL tutorial,  
   - [Useful](https://www.postgresqltutorial.com/postgresql-administration/psql-commands/) `psql` commands.  
 
 5. ##### Docker
   - Docker [Manuals](https://docs.docker.com/manuals/),
-  - [Tutoriale](https://realpython.com/tutorials/docker/) Dockera na RealPython (wymagana rejestracja).
+  - [Tutoriale](https://realpython.com/tutorials/docker/) Dockera na RealPython (wymagana rejestracja),
+  - Docker [cheat sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/),
+
+6. ##### Aplikacja uruchamiane w kontenerze
+  - blog z punktu nr 3,
+  - "pogodynka",
+  - web scrapper,
+  - ...
