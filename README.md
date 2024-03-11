@@ -18,6 +18,7 @@
  - [generowanie](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) kluczy SSH 
    i ich [dodanie](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) do konta GitHub,
  - podstawowa [składnia](https://www.markdownguide.org/basic-syntax/) Markdown,    
+ - [Emoji](https://gist.github.com/rxaviers/7360908) on GitHub,
  - GitHub [actions](https://docs.github.com/en/actions),
  - GitHub Student [Developer Pack](https://education.github.com/pack)  
 
