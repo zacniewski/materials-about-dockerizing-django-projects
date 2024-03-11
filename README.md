@@ -13,6 +13,8 @@
 2. ##### Git i GitHub
  - [książka online](https://git-scm.com/book/pl/v2) o systemie Git, 
  - [pomoc](https://www.flynerd.pl/2018/02/github-dla-zielonych-pierwsze-repozytorium.html) dla osób, które zaczynają przygodę z systemem kontroli wersji Git,
+ - najważniejsze [komendy gita](https://training.github.com/downloads/pl/github-git-cheat-sheet/) w pigułce,
+ - wizualna [ściąga](https://marklodato.github.io/visual-git-guide/index-pl.html) z gita,
  - [generowanie](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) kluczy SSH 
    i ich [dodanie](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) do konta GitHub,
  - podstawowa [składnia](https://www.markdownguide.org/basic-syntax/) Markdown,    
