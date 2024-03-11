@@ -30,6 +30,8 @@
   - [SQL](https://www.javatpoint.com/sql-tutorial) tutorial,  
   - [Database Management System](https://www.javatpoint.com/dbms-tutorial) tutorial,  
   - [SQLite](https://www.sqlitetutorial.net/sqlite-python/) w Pythonie, 
+  - [Wstęp do SQL](https://gvwilson.github.io/sql-tutorial/) dla inżynierów danych,
+  - [Tutorial SQLite](https://www.tutorialspoint.com/sqlite/sqlite_python.htm) w Pythonie,
   - [PostgreSQL](https://www.postgresqltutorial.com/) tutorial,  
   - [Official](https://www.postgresql.org/docs/current/tutorial.html) PostgreSQL tutorial,  
   - [Useful](https://www.postgresqltutorial.com/postgresql-administration/psql-commands/) `psql` commands.  
