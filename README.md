@@ -2,7 +2,8 @@
 
 #### I. Opis zawartości
 
-  1. folder 'blog-django-girls-2024' zawiera aplikację 'blog' z tutorialu [Django Girls](https://tutorial.djangogirls.org/pl/). 
+  1. folder 'blog-django-girls-2024' zawiera aplikację 'blog' z tutorialu [Django Girls](https://tutorial.djangogirls.org/pl/),
+  2. folder 'Python-exercises' zawiera przydatne ćwiczenia różnego rodzaju, rozwiązane za pomocą Pythona :smiley:,  
 
 
 #### II. Linki
@@ -11,11 +12,11 @@
   - [Interactive](https://www.learnpython.org/) Python tutorial,  
  
 2. ##### Git i GitHub
- - [książka online](https://git-scm.com/book/pl/v2) o systemie Git, 
- - [pomoc](https://www.flynerd.pl/2018/02/github-dla-zielonych-pierwsze-repozytorium.html) dla osób, które zaczynają przygodę z systemem kontroli wersji Git,
+ - [Książka online](https://git-scm.com/book/pl/v2) o systemie Git, 
+ - [Pomoc](https://www.flynerd.pl/2018/02/github-dla-zielonych-pierwsze-repozytorium.html) dla osób, które zaczynają przygodę z systemem kontroli wersji Git,
  - najważniejsze [komendy gita](https://training.github.com/downloads/pl/github-git-cheat-sheet/) w pigułce,
  - wizualna [ściąga](https://marklodato.github.io/visual-git-guide/index-pl.html) z gita,
- - [generowanie](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) kluczy SSH 
+ - [Generowanie](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) kluczy SSH 
    i ich [dodanie](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) do konta GitHub,
  - podstawowa [składnia](https://www.markdownguide.org/basic-syntax/) Markdown,    
  - [Emoji](https://gist.github.com/rxaviers/7360908) on GitHub,
@@ -24,7 +25,7 @@
 
 3. ##### Django
   - [Official](https://www.djangoproject.com/) website,  
-  - [najlepszy](https://tutorial.djangogirls.org/pl/) startowy tutorial dla Django,
+  - [Najlepszy](https://tutorial.djangogirls.org/pl/) startowy tutorial dla Django,
 
 4. ##### Bazy danych: SQLite i PostgreSQL
   - [SQL](https://www.javatpoint.com/sql-tutorial) tutorial,  
