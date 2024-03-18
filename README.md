@@ -38,6 +38,7 @@
   - [Useful](https://www.postgresqltutorial.com/postgresql-administration/psql-commands/) `psql` commands.  
 
 5. ##### Docker
+  - [Najlepszy](https://www.youtube.com/playlist?list=PLkcy-k498-V5AmftzfqinpMF2LFqSHK5n) kurs Dockera po polsku,
   - Docker [Manuals](https://docs.docker.com/manuals/),
   - [Tutoriale](https://realpython.com/tutorials/docker/) Dockera na RealPython (wymagana rejestracja),
   - Docker [cheat sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/),
