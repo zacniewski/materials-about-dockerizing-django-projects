@@ -40,6 +40,7 @@
   - Docker [Manuals](https://docs.docker.com/manuals/),
   - [Tutoriale](https://realpython.com/tutorials/docker/) Dockera na RealPython (wymagana rejestracja),
   - Docker [cheat sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/),
+  - Darmowe [laboratoria](https://labs.play-with-k8s.com/) do nauki Kubernetes,
 
 6. ##### Aplikacja uruchamiane w kontenerze
   - blog z punktu nr 3,
