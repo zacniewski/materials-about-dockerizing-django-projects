@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% load crispy_forms_tags %}
+
+{% block title %} Delete contact {% endblock %}
+
+{% block content %}
+    {% if messages %}
+        <!-- messages -->
+        {% for message in messages %}
+            {% if "error" in message.tags %}
+                <div class="alert alert-danger alert-dismissible fade show" role="alert">
+            {% else %}
+                <div class="alert alert-{{ message.tags }} alert-dismissible fade show" role="alert">
+            {% endif %}
+
+                {{ message }}
+                 <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                 </button>
+                </div>
+        {% endfor %}
+    {% endif %}
+
+    <h1>Delete contact {{ object }}</h1>
+
+    <form action="{% url 'delete_contact' contact.id %}" method="POST">
+        {% csrf_token %}
+        {{ form|crispy }}
+        <input type="submit" value="Delete">
+    </form>
+
+{% endblock %}

@@ -1,0 +1,26 @@
+<nav aria-label="...">
+  <ul class="pagination">
+      <li class="page-item disabled">
+         <a class="page-link" href="#" tabindex="-1">Total number of contacts: <b>{{ contacts.count }}</b></a>
+      </li>
+      {% if contacts.previous %}
+        <li class="page-item">
+          <a class="page-link" href="{{ contacts.previous }}">Previous</a>
+        </li>
+      {% else %}
+        <li class="page-item disabled">
+          <a class="page-link" href="#" tabindex="-1">Previous</a>
+        </li>
+      {%  endif %}
+
+    {% if contacts.next %}
+        <li class="page-item">
+          <a class="page-link" href="{{ contacts.next }}">Next</a>
+        </li>
+      {% else %}
+        <li class="page-item disabled">
+          <a class="page-link" href="#" tabindex="-1">Next</a>
+        </li>
+      {%  endif %}
+  </ul>
+</nav>

@@ -1,0 +1,29 @@
+{% extends "base.html"%}
+
+{% block title %}
+    Contact Manager
+{% endblock title %}
+
+{% block content %}
+
+    <div class="jumbotron">
+        <h1 class="display-4">Contact Manager</h1>
+        <p class="lead">by Artur Zacniewski</p>
+        <hr class="my-4">
+        <ol>
+            <li>As a logged admin user you can add, modify and browse contacts.</li>
+            <li>As a logged non-admin user you can only add new contacts.</li>
+            <li>As a non-logged user you should log in first.</li>
+        </ol>
+        {% if user.is_authenticated %}
+            <a href="{% url 'create_contact' %}" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Create contact</a>
+        {% else %}
+            <a href="{% url 'login' %}" class="btn btn-secondary btn-lg active" role="button" aria-pressed="true">Log in</a>
+        {% endif %}
+        {% if user.is_staff %}
+            <a href="{% url 'contact_list' %}" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">List of contacts</a>
+        {% endif %}
+
+    </div>
+
+{% endblock content %}

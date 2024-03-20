@@ -1,0 +1,9 @@
+*.pyc
+__pycache__
+.idea/
+my_env/
+*.pdf
+db.sqlite3
+.pytest_cache
+.coverage
+htmlcov/
