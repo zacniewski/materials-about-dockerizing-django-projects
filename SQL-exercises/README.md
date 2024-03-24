@@ -6,4 +6,5 @@
   - w ww. plik pokazany jest sposób wyświetlenia wyników zapytania, np. poprzez `fetchone()` lub `fetchall()`,  
   - oczekiwane wyniki zapytań dostępne są na [repo autora](https://github.com/gvwilson/sql-tutorial/tree/main/out),  
   - można wykorzystać narzędzie z linków (DB Browser for SQLite) i wykonać w nim zapytanie:  
+
     ![select_star](figures/select_star.png)
