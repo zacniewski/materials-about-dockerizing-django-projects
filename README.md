@@ -35,6 +35,7 @@
   - [Wstęp do SQL](https://gvwilson.github.io/sql-tutorial/) dla inżynierów danych,
   - [Tutorial SQLite](https://www.tutorialspoint.com/sqlite/sqlite_python.htm) w Pythonie,
   - [SQLite](https://sqlitebrowser.org/) browser,
+  - [sqlite-web](https://github.com/coleifer/sqlite-web) - web-based SQLite database browser written in Python,  
   - [PostgreSQL](https://www.postgresqltutorial.com/) tutorial,  
   - [Official](https://www.postgresql.org/docs/current/tutorial.html) PostgreSQL tutorial,  
   - [Useful](https://www.postgresqltutorial.com/postgresql-administration/psql-commands/) `psql` commands.  
