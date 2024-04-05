@@ -11,6 +11,7 @@
 
 1. ##### Python
   - [Interactive](https://www.learnpython.org/) Python tutorial,  
+  - Python [Web Development](https://realpython.com/tutorials/web-dev/) Tutorials.  
  
 2. ##### Git i GitHub
  - [Książka online](https://git-scm.com/book/pl/v2) o systemie Git, 
