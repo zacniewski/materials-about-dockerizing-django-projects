@@ -16,7 +16,7 @@
 ```bash
 select * from little_penguins;
 ```
-![Selecting All Values from Table](select_star.png)
+![Selecting All Values from Table](figures/select_star.png)
 
 #### 2. Specifying Columns
 ```bash
@@ -26,4 +26,4 @@ select
     sex
 from little_penguins;
 ```
-![Selecting Columns](select_columns.png)
+![Selecting Columns](figures/select_columns.png)
