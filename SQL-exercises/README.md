@@ -8,3 +8,22 @@
   - można wykorzystać narzędzie z linków (DB Browser for SQLite) i wykonać w nim zapytanie:  
 
     ![select_star](figures/select_star.png)
+
+
+### SQL tutorial
+
+#### 1. Selecting All Values from Table
+```bash
+select * from little_penguins;
+```
+![Selecting All Values from Table](select_star.png)
+
+#### 2. Specifying Columns
+```bash
+select
+    species,
+    island,
+    sex
+from little_penguins;
+```
+![Selecting Columns](select_columns.png)
