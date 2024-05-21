@@ -1,7 +1,7 @@
 ### Zagadnienia praktyczne z przedmiotu "Integracja systemów informatycznych"
 > Wszystkie zagadnienia są praktyczne!  
 > Wskazane jest wcześniejsze przygotowanie skryptów, plików, repozytoriów itp.  
-> Należy być gotowym na modyfikacje, zasugerowane przez prowadzącego.
+> Należy być gotowym na modyfikacje, zasugerowane przez prowadzącego.  
 > Niektóre zagadnienia moga mieć kilka rozwiązań, inwencja twórcza jak najbardziej wskazana :smiley:
  
 #### I. Git
