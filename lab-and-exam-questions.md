@@ -33,4 +33,6 @@
 8. Czym sa sieci w Dockerze?
 
 #### V. Programowanie
-1. Przygotuj klasę `Kalkulator` z czterema wybranymi działaniami matematycznymi (jako metody) i bądź gotowy do utworenia obiektów i modyfikacji tejże klasy.
+1. Przygotuj klasę `Kalkulator` z czterema wybranymi działaniami matematycznymi (jako metody) i bądź gotowy do utworenia obiektów i modyfikacji tejże klasy.  
+2. Napisz skrypt, pobierajacy dane w formacie JSON ze wskazanego API (online) i zapisz te dane do pliku tekstowego.  
+3. Napisz skrypt, który odczytuje dane z pliku tekstowego i wyświetla je we wskazanej postaci.
