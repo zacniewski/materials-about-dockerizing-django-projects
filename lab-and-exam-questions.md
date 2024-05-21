@@ -1,5 +1,8 @@
 ### Zagadnienia praktyczne z przedmiotu "Integracja systemów informatycznych"
-
+> Wszystkie zagadnienia są praktyczne!  
+> Wskazane jest wcześniejsze przygotowanie skryptów, plików, repozytoriów itp.  
+> Należy być gotowym na modyfikacje, zasugerowane przez prowadzącego.
+ 
 #### I. Git
 1. Utwórz nową gałąź (np. `nowa`) z bieżącej (najczęściej będzie to `main`), stwórz w nowej gałęzi nowy plik i zmerguj nową gałąź do bieżącej.
 2. Pokaż jak działa `pull request` na jednym ze swoich repozytoriów.
@@ -11,7 +14,7 @@
 1. Za pomocą skryptu w wybranym języku dodaj kolejny rekord do wskazanej bazy danych.
 2. Dla wybranej bazy danych pokaż działanie co najmniej tzech różnych typów JOIN'a.
 3. Zaloguj się do bazy danych PostgreSQL w kontenerze Dockerowym i wykonaj operację `SELECT` dla dowolnej tabeli.
-4. Wskaż różnice między SQLite a PostgreSQL.
+4. Wskaż różnice między SQLite a PostgreSQL na wybranym przez siebie przykładzie.
 5. Przygotuj zapytania zawierające polecenia `WHERE`, `LIKE`, `COUNT`, `GROUP BY`, `HAVING` i bądz gotowy do ich uruchomienia i modyfikacji.
 
 #### III. Aplikacja wg wzorca projektowego MVC (Model-View-Controller)
@@ -33,6 +36,9 @@
 8. Czym sa sieci w Dockerze?
 
 #### V. Programowanie
-1. Przygotuj klasę `Kalkulator` z czterema wybranymi działaniami matematycznymi (jako metody) i bądź gotowy do utworenia obiektów i modyfikacji tejże klasy.  
-2. Napisz skrypt, pobierajacy dane w formacie JSON ze wskazanego API (online) i zapisz te dane do pliku tekstowego.  
+1. Przygotuj klasę `Kalkulator` z czterema wybranymi działaniami matematycznymi (jako metody) i bądź gotowy do utworenia obiektów i modyfikacji tejże klasy wg wytycznych.  
+2. Napisz skrypt, pobierajacy dane w formacie JSON ze wskazanego API (online, np. `https://jsonplaceholder.typicode.com/photos`) i zapisz te dane do pliku tekstowego.  
 3. Napisz skrypt, który odczytuje dane z pliku tekstowego i wyświetla je we wskazanej postaci.
+4. Pokaż działanie dziedziczenia w programowaniu obiektowym, poprzez utworzenie klasy `Person` (jej atrybuty to `name` i `surname`) i klas z niej dziedziczących, które mają dodatkowe atrybuty i metody.
+   Może to być np. kod/program dotyczący osób na uczelni lub osób w firmie z określoną hierarchią.
+
