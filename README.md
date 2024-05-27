@@ -6,7 +6,7 @@
   2. folder 'simple-contact-form' pokazuje użycie Django, Dockera (dockerfile + docker-compose), DRF oraz pliku `Makefile` do realizacji aplikacji umożliwiającej zarządzanie kontaktami,  
   3. folder 'Python-exercises' zawiera przydatne ćwiczenia różnego rodzaju, rozwiązane za pomocą Pythona :smiley:,  
   4. folder 'SQL-exercises' zawiera ćwiczenia z języka SQL, wykorzystując do tego bazę SQLite i tutoriale: [pierwszy](https://gvwilson.github.io/sql-tutorial/) oraz [drugi](https://www.sqlitetutorial.net/sqlite-python/creating-tables/) na podstawie linków z punktu nr 4.
-  5. folder 'django-on-docker' pokazuje użycie Django, Dockera (dockerfile + docker-compose) na przykładzie z [tutoriala](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/) 
+  5. folder 'django-on-docker' pokazuje użycie Django, Dockera (dockerfile + docker-compose) na przykładzie [tutoriala](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/) ze strony Testdriven.io.
 
 #### II. Linki
 
