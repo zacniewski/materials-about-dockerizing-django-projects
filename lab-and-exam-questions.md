@@ -9,7 +9,7 @@
 2. Pokaż jak działa `pull request` na jednym ze swoich repozytoriów.
 3. Omów różnicę między `git fetch` a `git pull` na przykładzie swojego repozytorium.
 4. Pokaż działanie `git stash`.
-5. Pokaż działanie `git rebase` i omów róznicę w stosunku do `git merge`.
+5. Omów działanie `git rebase` i wskaż różnice w stosunku do `git merge` (mile widziany rysunek).
 
 #### II. Bazy danych
 1. Za pomocą skryptu w wybranym języku dodaj kolejny rekord do wskazanej bazy danych.
