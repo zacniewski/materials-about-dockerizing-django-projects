@@ -99,4 +99,7 @@
   - [Cloud Run](https://cloud.google.com/run?hl=en),  
   - ...
 
+7. #### Cloud
+  - [Cloud Compare](https://comparecloudservices.com/) - porównanie usług chmurowych.  
+
 
